@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EasyRoads Task</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_btn_find">Find</string>
+
+    <string-array name="place_type">
+        <item>restaurant</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Restaurant</item>
+    </string-array>
+
+</resources>
